@@ -1,0 +1,187 @@
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.exe.config
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.exe
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.pdb
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\bin\Debug\Guna.UI2.dll
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.AssemblyReference.cache
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.SuggestedBindingRedirects.cache
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.LoginForm.resources
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.Properties.Resources.resources
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.GenerateResource.cache
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.CoreCompileInputs.cache
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.CopyComplete
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.exe
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.pdb
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.MainForm.resources
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.ForgotPasswordForm.resources
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.VertificationForm.resources
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.VertificationSuccessForm.resources
+D:\C# Applications\Software Project\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.DashboardForm.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.exe.config
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.exe
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.pdb
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.AssemblyReference.cache
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.ForgotPasswordForm.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.LoginForm.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.MainForm.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.Properties.Resources.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.VertificationForm.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.VertificationSuccessForm.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.GenerateResource.cache
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.CopyComplete
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.exe
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.pdb
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.Dashboard.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormHome.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormStaff.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormVehicle.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\FireSharp.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\RestSharp.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\RestSharp.xml
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.App.config
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\FluentEmail.Core.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\FluentEmail.Smtp.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormAdmin.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormSettings.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.ViewAdmin.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormDetails.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.ResetPassword.resources
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\tessdata\configs\config.cfg
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\tessdata\eng.traineddata
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\tessdata\equ.traineddata
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\tessdata\osd.traineddata
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\tessdata\pdf.ttf
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\tessdata\pdf.ttx
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\x64\tesseract.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\x86\Tesseract.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Patagames.Ocr.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ahinsa Sathsarani\Downloads\Securentra Management System\Securentra Management System\bin\Debug\Patagames.Ocr.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\tessdata\configs\config.cfg
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\tessdata\eng.traineddata
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\tessdata\equ.traineddata
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\tessdata\osd.traineddata
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\tessdata\pdf.ttf
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\tessdata\pdf.ttx
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\x64\tesseract.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\x86\Tesseract.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.exe.config
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.exe
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Securentra Management System.pdb
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Emgu.CV.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\FireSharp.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\FluentEmail.Core.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\FluentEmail.Smtp.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Guna.UI2.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Newtonsoft.Json.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\OpenCvSharp.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Patagames.Ocr.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\RestSharp.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Buffers.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Drawing.Common.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Memory.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Net.Http.Extensions.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Net.Http.Primitives.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Emgu.CV.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Newtonsoft.Json.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\OpenCvSharp.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Patagames.Ocr.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\RestSharp.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Buffers.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Memory.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Net.Http.Extensions.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Net.Http.Primitives.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.App.config
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.AssemblyReference.cache
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.SuggestedBindingRedirects.cache
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.Dashboard.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.ForgotPasswordForm.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormAdmin.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormDetails.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormSettings.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormStaff.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormVehicle.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.FormHome.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.LoginForm.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.MainForm.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.Properties.Resources.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.ResetPassword.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.VertificationForm.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.VertificationSuccessForm.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.ViewAdmin.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.GenerateResource.cache
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.CoreCompileInputs.cache
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.csproj.CopyComplete
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.exe
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra Management System.pdb
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.AccessCheckingForm.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Firebase.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\FirebaseAdmin.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Api.Gax.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Api.Gax.Rest.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.Auth.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.Core.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\LiteDB.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Collections.Immutable.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Reactive.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Firebase.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\FirebaseAdmin.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Api.Gax.pdb
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Api.Gax.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Api.Gax.Rest.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.pdb
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.Auth.pdb
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.Auth.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.Core.pdb
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Google.Apis.Core.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\LiteDB.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Collections.Immutable.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Reactive.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\obj\Debug\Securentra_Management_System.EditProfileForm.resources
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\circle_progressbar.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\itextsharp.dll
+D:\Securentra Management System with NPR using Tesseract\Securentra Management System\Securentra Management System\bin\Debug\itextsharp.xml
